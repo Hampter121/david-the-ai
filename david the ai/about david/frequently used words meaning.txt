@@ -1,0 +1,3 @@
+this is words used by the developers and what they mean
+input is something you type
+prompt is what the ai responds with

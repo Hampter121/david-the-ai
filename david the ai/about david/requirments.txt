@@ -1,0 +1,2 @@
+you need python idle (i dont know how to install pip ok :( )
+this is not an exe so it just raw python meaning you can edit this
