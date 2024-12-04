@@ -1,0 +1,1 @@
+hello this isnt 6th grade me anymore i made this in 6th grade anyways just letting you know david can only really respond to what i put into it so how about you search through the code for idle so i dont have to tell you
